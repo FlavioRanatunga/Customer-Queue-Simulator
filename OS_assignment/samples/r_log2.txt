@@ -1,0 +1,1327 @@
+
+Customer#: 1 Service type: W
+Arrival time: 23:10:27
+
+Teller: 2
+Customer#: 1
+Arrival time: 23:10:27
+Response time: 23:10:27
+
+Customer#: 2 Service type: W
+Arrival time: 23:10:31
+
+Teller: 1
+Customer#: 2
+Arrival time: 23:10:31
+Response time: 23:10:31
+
+Teller: 2
+Customer#: 1
+Arrival time: 23:10:27
+Completion time: 23:10:31
+
+Customer#: 3 Service type: I
+Arrival time: 23:10:35
+
+Teller: 4
+Customer#: 3
+Arrival time: 23:10:35
+Response time: 23:10:35
+
+Teller: 1
+Customer#: 2
+Arrival time: 23:10:31
+Completion time: 23:10:35
+
+Teller: 4
+Customer#: 3
+Arrival time: 23:10:35
+Completion time: 23:10:38
+
+Customer#: 4 Service type: D
+Arrival time: 23:10:39
+
+Teller: 3
+Customer#: 4
+Arrival time: 23:10:39
+Response time: 23:10:39
+
+Teller: 3
+Customer#: 4
+Arrival time: 23:10:39
+Completion time: 23:10:42
+
+Customer#: 5 Service type: I
+Arrival time: 23:10:43
+
+Teller: 2
+Customer#: 5
+Arrival time: 23:10:43
+Response time: 23:10:43
+
+Teller: 2
+Customer#: 5
+Arrival time: 23:10:43
+Completion time: 23:10:46
+
+Customer#: 6 Service type: D
+Arrival time: 23:10:47
+
+Teller: 1
+Customer#: 6
+Arrival time: 23:10:47
+Response time: 23:10:47
+
+Teller: 1
+Customer#: 6
+Arrival time: 23:10:47
+Completion time: 23:10:50
+
+Customer#: 7 Service type: I
+Arrival time: 23:10:51
+
+Teller: 4
+Customer#: 7
+Arrival time: 23:10:51
+Response time: 23:10:51
+
+Teller: 4
+Customer#: 7
+Arrival time: 23:10:51
+Completion time: 23:10:54
+
+Customer#: 8 Service type: I
+Arrival time: 23:10:55
+
+Teller: 3
+Customer#: 8
+Arrival time: 23:10:55
+Response time: 23:10:55
+
+Teller: 3
+Customer#: 8
+Arrival time: 23:10:55
+Completion time: 23:10:58
+
+Customer#: 9 Service type: D
+Arrival time: 23:10:59
+
+Teller: 2
+Customer#: 9
+Arrival time: 23:10:59
+Response time: 23:10:59
+
+Teller: 2
+Customer#: 9
+Arrival time: 23:10:59
+Completion time: 23:11:02
+
+Customer#: 10 Service type: D
+Arrival time: 23:11:03
+
+Teller: 1
+Customer#: 10
+Arrival time: 23:11:03
+Response time: 23:11:03
+
+Teller: 1
+Customer#: 10
+Arrival time: 23:11:03
+Completion time: 23:11:06
+
+Customer#: 11 Service type: W
+Arrival time: 23:11:07
+
+Teller: 4
+Customer#: 11
+Arrival time: 23:11:07
+Response time: 23:11:07
+
+Customer#: 12 Service type: I
+Arrival time: 23:11:11
+
+Teller: 3
+Customer#: 12
+Arrival time: 23:11:11
+Response time: 23:11:11
+
+Teller: 4
+Customer#: 11
+Arrival time: 23:11:07
+Completion time: 23:11:11
+
+Teller: 3
+Customer#: 12
+Arrival time: 23:11:11
+Completion time: 23:11:14
+
+Customer#: 13 Service type: I
+Arrival time: 23:11:15
+
+Teller: 2
+Customer#: 13
+Arrival time: 23:11:15
+Response time: 23:11:15
+
+Teller: 2
+Customer#: 13
+Arrival time: 23:11:15
+Completion time: 23:11:18
+
+Customer#: 14 Service type: W
+Arrival time: 23:11:19
+
+Teller: 1
+Customer#: 14
+Arrival time: 23:11:19
+Response time: 23:11:19
+
+Customer#: 15 Service type: W
+Arrival time: 23:11:23
+
+Teller: 4
+Customer#: 15
+Arrival time: 23:11:23
+Response time: 23:11:23
+
+Teller: 1
+Customer#: 14
+Arrival time: 23:11:19
+Completion time: 23:11:23
+
+Customer#: 16 Service type: D
+Arrival time: 23:11:27
+
+Teller: 3
+Customer#: 16
+Arrival time: 23:11:27
+Response time: 23:11:27
+
+Teller: 4
+Customer#: 15
+Arrival time: 23:11:23
+Completion time: 23:11:27
+
+Teller: 3
+Customer#: 16
+Arrival time: 23:11:27
+Completion time: 23:11:30
+
+Customer#: 17 Service type: I
+Arrival time: 23:11:31
+
+Teller: 2
+Customer#: 17
+Arrival time: 23:11:31
+Response time: 23:11:31
+
+Teller: 2
+Customer#: 17
+Arrival time: 23:11:31
+Completion time: 23:11:34
+
+Customer#: 18 Service type: D
+Arrival time: 23:11:35
+
+Teller: 1
+Customer#: 18
+Arrival time: 23:11:35
+Response time: 23:11:35
+
+Teller: 1
+Customer#: 18
+Arrival time: 23:11:35
+Completion time: 23:11:38
+
+Customer#: 19 Service type: W
+Arrival time: 23:11:39
+
+Teller: 4
+Customer#: 19
+Arrival time: 23:11:39
+Response time: 23:11:39
+
+Customer#: 20 Service type: W
+Arrival time: 23:11:43
+
+Teller: 3
+Customer#: 20
+Arrival time: 23:11:43
+Response time: 23:11:43
+
+Teller: 4
+Customer#: 19
+Arrival time: 23:11:39
+Completion time: 23:11:43
+
+Customer#: 21 Service type: I
+Arrival time: 23:11:47
+
+Teller: 2
+Customer#: 21
+Arrival time: 23:11:47
+Response time: 23:11:47
+
+Teller: 3
+Customer#: 20
+Arrival time: 23:11:43
+Completion time: 23:11:47
+
+Teller: 2
+Customer#: 21
+Arrival time: 23:11:47
+Completion time: 23:11:50
+
+Customer#: 22 Service type: D
+Arrival time: 23:11:51
+
+Teller: 1
+Customer#: 22
+Arrival time: 23:11:51
+Response time: 23:11:51
+
+Teller: 1
+Customer#: 22
+Arrival time: 23:11:51
+Completion time: 23:11:54
+
+Customer#: 23 Service type: D
+Arrival time: 23:11:55
+
+Teller: 4
+Customer#: 23
+Arrival time: 23:11:55
+Response time: 23:11:55
+
+Teller: 4
+Customer#: 23
+Arrival time: 23:11:55
+Completion time: 23:11:58
+
+Customer#: 24 Service type: W
+Arrival time: 23:11:59
+
+Teller: 3
+Customer#: 24
+Arrival time: 23:11:59
+Response time: 23:11:59
+
+Customer#: 25 Service type: I
+Arrival time: 23:12:03
+
+Teller: 2
+Customer#: 25
+Arrival time: 23:12:03
+Response time: 23:12:03
+
+Teller: 3
+Customer#: 24
+Arrival time: 23:11:59
+Completion time: 23:12:03
+
+Teller: 2
+Customer#: 25
+Arrival time: 23:12:03
+Completion time: 23:12:06
+
+Customer#: 26 Service type: D
+Arrival time: 23:12:07
+
+Teller: 1
+Customer#: 26
+Arrival time: 23:12:07
+Response time: 23:12:07
+
+Teller: 1
+Customer#: 26
+Arrival time: 23:12:07
+Completion time: 23:12:10
+
+Customer#: 27 Service type: I
+Arrival time: 23:12:11
+
+Teller: 4
+Customer#: 27
+Arrival time: 23:12:11
+Response time: 23:12:11
+
+Teller: 4
+Customer#: 27
+Arrival time: 23:12:11
+Completion time: 23:12:14
+
+Customer#: 28 Service type: D
+Arrival time: 23:12:15
+
+Teller: 3
+Customer#: 28
+Arrival time: 23:12:15
+Response time: 23:12:15
+
+Teller: 3
+Customer#: 28
+Arrival time: 23:12:15
+Completion time: 23:12:18
+
+Customer#: 29 Service type: W
+Arrival time: 23:12:19
+
+Teller: 2
+Customer#: 29
+Arrival time: 23:12:19
+Response time: 23:12:19
+
+Customer#: 30 Service type: I
+Arrival time: 23:12:23
+
+Teller: 2
+Customer#: 29
+Arrival time: 23:12:19
+Completion time: 23:12:23
+
+Teller: 1
+Customer#: 30
+Arrival time: 23:12:23
+Response time: 23:12:23
+
+Teller: 1
+Customer#: 30
+Arrival time: 23:12:23
+Completion time: 23:12:26
+
+Customer#: 31 Service type: I
+Arrival time: 23:12:27
+
+Teller: 4
+Customer#: 31
+Arrival time: 23:12:27
+Response time: 23:12:27
+
+Teller: 4
+Customer#: 31
+Arrival time: 23:12:27
+Completion time: 23:12:30
+
+Customer#: 32 Service type: D
+Arrival time: 23:12:31
+
+Teller: 3
+Customer#: 32
+Arrival time: 23:12:31
+Response time: 23:12:31
+
+Teller: 3
+Customer#: 32
+Arrival time: 23:12:31
+Completion time: 23:12:34
+
+Customer#: 33 Service type: W
+Arrival time: 23:12:35
+
+Teller: 2
+Customer#: 33
+Arrival time: 23:12:35
+Response time: 23:12:35
+
+Customer#: 34 Service type: D
+Arrival time: 23:12:39
+
+Teller: 1
+Customer#: 34
+Arrival time: 23:12:39
+Response time: 23:12:39
+
+Teller: 2
+Customer#: 33
+Arrival time: 23:12:35
+Completion time: 23:12:39
+
+Teller: 1
+Customer#: 34
+Arrival time: 23:12:39
+Completion time: 23:12:42
+
+Customer#: 35 Service type: I
+Arrival time: 23:12:43
+
+Teller: 4
+Customer#: 35
+Arrival time: 23:12:43
+Response time: 23:12:43
+
+Teller: 4
+Customer#: 35
+Arrival time: 23:12:43
+Completion time: 23:12:46
+
+Customer#: 36 Service type: W
+Arrival time: 23:12:47
+
+Teller: 3
+Customer#: 36
+Arrival time: 23:12:47
+Response time: 23:12:47
+
+Customer#: 37 Service type: I
+Arrival time: 23:12:51
+
+Teller: 2
+Customer#: 37
+Arrival time: 23:12:51
+Response time: 23:12:51
+
+Teller: 3
+Customer#: 36
+Arrival time: 23:12:47
+Completion time: 23:12:52
+
+Teller: 2
+Customer#: 37
+Arrival time: 23:12:51
+Completion time: 23:12:55
+
+Customer#: 38 Service type: D
+Arrival time: 23:12:56
+
+Teller: 1
+Customer#: 38
+Arrival time: 23:12:56
+Response time: 23:12:56
+
+Teller: 1
+Customer#: 38
+Arrival time: 23:12:56
+Completion time: 23:12:59
+
+Customer#: 39 Service type: I
+Arrival time: 23:13:00
+
+Teller: 4
+Customer#: 39
+Arrival time: 23:13:00
+Response time: 23:13:00
+
+Teller: 4
+Customer#: 39
+Arrival time: 23:13:00
+Completion time: 23:13:03
+
+Customer#: 40 Service type: D
+Arrival time: 23:13:04
+
+Teller: 3
+Customer#: 40
+Arrival time: 23:13:04
+Response time: 23:13:04
+
+Teller: 3
+Customer#: 40
+Arrival time: 23:13:04
+Completion time: 23:13:07
+
+Customer#: 41 Service type: W
+Arrival time: 23:13:08
+
+Teller: 2
+Customer#: 41
+Arrival time: 23:13:08
+Response time: 23:13:08
+
+Customer#: 42 Service type: D
+Arrival time: 23:13:12
+
+Teller: 1
+Customer#: 42
+Arrival time: 23:13:12
+Response time: 23:13:12
+
+Teller: 2
+Customer#: 41
+Arrival time: 23:13:08
+Completion time: 23:13:12
+
+Teller: 1
+Customer#: 42
+Arrival time: 23:13:12
+Completion time: 23:13:15
+
+Customer#: 43 Service type: W
+Arrival time: 23:13:16
+
+Teller: 4
+Customer#: 43
+Arrival time: 23:13:16
+Response time: 23:13:16
+
+Customer#: 44 Service type: W
+Arrival time: 23:13:20
+
+Teller: 3
+Customer#: 44
+Arrival time: 23:13:20
+Response time: 23:13:20
+
+Teller: 4
+Customer#: 43
+Arrival time: 23:13:16
+Completion time: 23:13:20
+
+Customer#: 45 Service type: I
+Arrival time: 23:13:24
+
+Teller: 2
+Customer#: 45
+Arrival time: 23:13:24
+Response time: 23:13:24
+
+Teller: 3
+Customer#: 44
+Arrival time: 23:13:20
+Completion time: 23:13:24
+
+Teller: 2
+Customer#: 45
+Arrival time: 23:13:24
+Completion time: 23:13:27
+
+Customer#: 46 Service type: D
+Arrival time: 23:13:28
+
+Teller: 1
+Customer#: 46
+Arrival time: 23:13:28
+Response time: 23:13:28
+
+Teller: 1
+Customer#: 46
+Arrival time: 23:13:28
+Completion time: 23:13:31
+
+Customer#: 47 Service type: I
+Arrival time: 23:13:32
+
+Teller: 4
+Customer#: 47
+Arrival time: 23:13:32
+Response time: 23:13:32
+
+Teller: 4
+Customer#: 47
+Arrival time: 23:13:32
+Completion time: 23:13:35
+
+Customer#: 48 Service type: D
+Arrival time: 23:13:36
+
+Teller: 3
+Customer#: 48
+Arrival time: 23:13:36
+Response time: 23:13:36
+
+Teller: 3
+Customer#: 48
+Arrival time: 23:13:36
+Completion time: 23:13:39
+
+Customer#: 49 Service type: W
+Arrival time: 23:13:40
+
+Teller: 2
+Customer#: 49
+Arrival time: 23:13:40
+Response time: 23:13:40
+
+Customer#: 50 Service type: I
+Arrival time: 23:13:44
+
+Teller: 1
+Customer#: 50
+Arrival time: 23:13:44
+Response time: 23:13:44
+
+Teller: 2
+Customer#: 49
+Arrival time: 23:13:40
+Completion time: 23:13:44
+
+Teller: 1
+Customer#: 50
+Arrival time: 23:13:44
+Completion time: 23:13:47
+
+Customer#: 51 Service type: W
+Arrival time: 23:13:48
+
+Teller: 4
+Customer#: 51
+Arrival time: 23:13:48
+Response time: 23:13:48
+
+Customer#: 52 Service type: D
+Arrival time: 23:13:52
+
+Teller: 3
+Customer#: 52
+Arrival time: 23:13:52
+Response time: 23:13:52
+
+Teller: 4
+Customer#: 51
+Arrival time: 23:13:48
+Completion time: 23:13:52
+
+Teller: 3
+Customer#: 52
+Arrival time: 23:13:52
+Completion time: 23:13:55
+
+Customer#: 53 Service type: I
+Arrival time: 23:13:56
+
+Teller: 2
+Customer#: 53
+Arrival time: 23:13:56
+Response time: 23:13:56
+
+Teller: 2
+Customer#: 53
+Arrival time: 23:13:56
+Completion time: 23:13:59
+
+Customer#: 54 Service type: D
+Arrival time: 23:14:00
+
+Teller: 1
+Customer#: 54
+Arrival time: 23:14:00
+Response time: 23:14:00
+
+Teller: 1
+Customer#: 54
+Arrival time: 23:14:00
+Completion time: 23:14:03
+
+Customer#: 55 Service type: W
+Arrival time: 23:14:04
+
+Teller: 4
+Customer#: 55
+Arrival time: 23:14:04
+Response time: 23:14:04
+
+Customer#: 56 Service type: I
+Arrival time: 23:14:08
+
+Teller: 3
+Customer#: 56
+Arrival time: 23:14:08
+Response time: 23:14:08
+
+Teller: 4
+Customer#: 55
+Arrival time: 23:14:04
+Completion time: 23:14:08
+
+Teller: 3
+Customer#: 56
+Arrival time: 23:14:08
+Completion time: 23:14:11
+
+Customer#: 57 Service type: I
+Arrival time: 23:14:12
+
+Teller: 2
+Customer#: 57
+Arrival time: 23:14:12
+Response time: 23:14:12
+
+Teller: 2
+Customer#: 57
+Arrival time: 23:14:12
+Completion time: 23:14:15
+
+Customer#: 58 Service type: D
+Arrival time: 23:14:16
+
+Teller: 1
+Customer#: 58
+Arrival time: 23:14:16
+Response time: 23:14:16
+
+Teller: 1
+Customer#: 58
+Arrival time: 23:14:16
+Completion time: 23:14:19
+
+Customer#: 59 Service type: W
+Arrival time: 23:14:20
+
+Teller: 4
+Customer#: 59
+Arrival time: 23:14:20
+Response time: 23:14:20
+
+Customer#: 60 Service type: D
+Arrival time: 23:14:24
+
+Teller: 3
+Customer#: 60
+Arrival time: 23:14:24
+Response time: 23:14:24
+
+Teller: 4
+Customer#: 59
+Arrival time: 23:14:20
+Completion time: 23:14:24
+
+Teller: 3
+Customer#: 60
+Arrival time: 23:14:24
+Completion time: 23:14:27
+
+Customer#: 61 Service type: I
+Arrival time: 23:14:28
+
+Teller: 2
+Customer#: 61
+Arrival time: 23:14:28
+Response time: 23:14:28
+
+Teller: 2
+Customer#: 61
+Arrival time: 23:14:28
+Completion time: 23:14:31
+
+Customer#: 62 Service type: W
+Arrival time: 23:14:32
+
+Teller: 1
+Customer#: 62
+Arrival time: 23:14:32
+Response time: 23:14:32
+
+Customer#: 63 Service type: W
+Arrival time: 23:14:36
+
+Teller: 4
+Customer#: 63
+Arrival time: 23:14:36
+Response time: 23:14:36
+
+Teller: 1
+Customer#: 62
+Arrival time: 23:14:32
+Completion time: 23:14:36
+
+Customer#: 64 Service type: D
+Arrival time: 23:14:40
+
+Teller: 3
+Customer#: 64
+Arrival time: 23:14:40
+Response time: 23:14:40
+
+Teller: 4
+Customer#: 63
+Arrival time: 23:14:36
+Completion time: 23:14:40
+
+Teller: 3
+Customer#: 64
+Arrival time: 23:14:40
+Completion time: 23:14:43
+
+Customer#: 65 Service type: I
+Arrival time: 23:14:44
+
+Teller: 2
+Customer#: 65
+Arrival time: 23:14:44
+Response time: 23:14:44
+
+Teller: 2
+Customer#: 65
+Arrival time: 23:14:44
+Completion time: 23:14:47
+
+Customer#: 66 Service type: D
+Arrival time: 23:14:48
+
+Teller: 1
+Customer#: 66
+Arrival time: 23:14:48
+Response time: 23:14:48
+
+Teller: 1
+Customer#: 66
+Arrival time: 23:14:48
+Completion time: 23:14:51
+
+Customer#: 67 Service type: W
+Arrival time: 23:14:52
+
+Teller: 4
+Customer#: 67
+Arrival time: 23:14:52
+Response time: 23:14:52
+
+Customer#: 68 Service type: D
+Arrival time: 23:14:56
+
+Teller: 3
+Customer#: 68
+Arrival time: 23:14:56
+Response time: 23:14:56
+
+Teller: 4
+Customer#: 67
+Arrival time: 23:14:52
+Completion time: 23:14:56
+
+Teller: 3
+Customer#: 68
+Arrival time: 23:14:56
+Completion time: 23:14:59
+
+Customer#: 69 Service type: I
+Arrival time: 23:15:00
+
+Teller: 2
+Customer#: 69
+Arrival time: 23:15:00
+Response time: 23:15:00
+
+Teller: 2
+Customer#: 69
+Arrival time: 23:15:00
+Completion time: 23:15:03
+
+Customer#: 70 Service type: D
+Arrival time: 23:15:04
+
+Teller: 1
+Customer#: 70
+Arrival time: 23:15:04
+Response time: 23:15:04
+
+Teller: 1
+Customer#: 70
+Arrival time: 23:15:04
+Completion time: 23:15:07
+
+Customer#: 71 Service type: W
+Arrival time: 23:15:08
+
+Teller: 4
+Customer#: 71
+Arrival time: 23:15:08
+Response time: 23:15:08
+
+Customer#: 72 Service type: I
+Arrival time: 23:15:12
+
+Teller: 3
+Customer#: 72
+Arrival time: 23:15:12
+Response time: 23:15:12
+
+Teller: 4
+Customer#: 71
+Arrival time: 23:15:08
+Completion time: 23:15:12
+
+Teller: 3
+Customer#: 72
+Arrival time: 23:15:12
+Completion time: 23:15:15
+
+Customer#: 73 Service type: I
+Arrival time: 23:15:16
+
+Teller: 2
+Customer#: 73
+Arrival time: 23:15:16
+Response time: 23:15:16
+
+Teller: 2
+Customer#: 73
+Arrival time: 23:15:16
+Completion time: 23:15:19
+
+Customer#: 74 Service type: D
+Arrival time: 23:15:20
+
+Teller: 1
+Customer#: 74
+Arrival time: 23:15:20
+Response time: 23:15:20
+
+Teller: 1
+Customer#: 74
+Arrival time: 23:15:20
+Completion time: 23:15:23
+
+Customer#: 75 Service type: W
+Arrival time: 23:15:24
+
+Teller: 4
+Customer#: 75
+Arrival time: 23:15:24
+Response time: 23:15:24
+
+Customer#: 76 Service type: D
+Arrival time: 23:15:28
+
+Teller: 3
+Customer#: 76
+Arrival time: 23:15:28
+Response time: 23:15:28
+
+Teller: 4
+Customer#: 75
+Arrival time: 23:15:24
+Completion time: 23:15:28
+
+Teller: 3
+Customer#: 76
+Arrival time: 23:15:28
+Completion time: 23:15:31
+
+Customer#: 77 Service type: I
+Arrival time: 23:15:32
+
+Teller: 2
+Customer#: 77
+Arrival time: 23:15:32
+Response time: 23:15:32
+
+Teller: 2
+Customer#: 77
+Arrival time: 23:15:32
+Completion time: 23:15:35
+
+Customer#: 78 Service type: W
+Arrival time: 23:15:36
+
+Teller: 1
+Customer#: 78
+Arrival time: 23:15:36
+Response time: 23:15:36
+
+Customer#: 79 Service type: W
+Arrival time: 23:15:40
+
+Teller: 4
+Customer#: 79
+Arrival time: 23:15:40
+Response time: 23:15:40
+
+Teller: 1
+Customer#: 78
+Arrival time: 23:15:36
+Completion time: 23:15:40
+
+Customer#: 80 Service type: D
+Arrival time: 23:15:44
+
+Teller: 3
+Customer#: 80
+Arrival time: 23:15:44
+Response time: 23:15:44
+
+Teller: 4
+Customer#: 79
+Arrival time: 23:15:40
+Completion time: 23:15:44
+
+Teller: 3
+Customer#: 80
+Arrival time: 23:15:44
+Completion time: 23:15:47
+
+Customer#: 81 Service type: I
+Arrival time: 23:15:48
+
+Teller: 2
+Customer#: 81
+Arrival time: 23:15:48
+Response time: 23:15:48
+
+Teller: 2
+Customer#: 81
+Arrival time: 23:15:48
+Completion time: 23:15:51
+
+Customer#: 82 Service type: D
+Arrival time: 23:15:52
+
+Teller: 1
+Customer#: 82
+Arrival time: 23:15:52
+Response time: 23:15:52
+
+Teller: 1
+Customer#: 82
+Arrival time: 23:15:52
+Completion time: 23:15:55
+
+Customer#: 83 Service type: W
+Arrival time: 23:15:56
+
+Teller: 4
+Customer#: 83
+Arrival time: 23:15:56
+Response time: 23:15:56
+
+Customer#: 84 Service type: I
+Arrival time: 23:16:00
+
+Teller: 3
+Customer#: 84
+Arrival time: 23:16:00
+Response time: 23:16:00
+
+Teller: 4
+Customer#: 83
+Arrival time: 23:15:56
+Completion time: 23:16:00
+
+Teller: 3
+Customer#: 84
+Arrival time: 23:16:00
+Completion time: 23:16:03
+
+Customer#: 85 Service type: I
+Arrival time: 23:16:04
+
+Teller: 2
+Customer#: 85
+Arrival time: 23:16:04
+Response time: 23:16:04
+
+Teller: 2
+Customer#: 85
+Arrival time: 23:16:04
+Completion time: 23:16:07
+
+Customer#: 86 Service type: D
+Arrival time: 23:16:08
+
+Teller: 1
+Customer#: 86
+Arrival time: 23:16:08
+Response time: 23:16:08
+
+Teller: 1
+Customer#: 86
+Arrival time: 23:16:08
+Completion time: 23:16:11
+
+Customer#: 87 Service type: W
+Arrival time: 23:16:12
+
+Teller: 4
+Customer#: 87
+Arrival time: 23:16:12
+Response time: 23:16:12
+
+Customer#: 88 Service type: I
+Arrival time: 23:16:16
+
+Teller: 3
+Customer#: 88
+Arrival time: 23:16:16
+Response time: 23:16:16
+
+Teller: 4
+Customer#: 87
+Arrival time: 23:16:12
+Completion time: 23:16:16
+
+Teller: 3
+Customer#: 88
+Arrival time: 23:16:16
+Completion time: 23:16:19
+
+Customer#: 89 Service type: D
+Arrival time: 23:16:20
+
+Teller: 2
+Customer#: 89
+Arrival time: 23:16:20
+Response time: 23:16:20
+
+Teller: 2
+Customer#: 89
+Arrival time: 23:16:20
+Completion time: 23:16:23
+
+Customer#: 90 Service type: W
+Arrival time: 23:16:24
+
+Teller: 1
+Customer#: 90
+Arrival time: 23:16:24
+Response time: 23:16:24
+
+Customer#: 91 Service type: D
+Arrival time: 23:16:28
+
+Teller: 4
+Customer#: 91
+Arrival time: 23:16:28
+Response time: 23:16:28
+
+Teller: 1
+Customer#: 90
+Arrival time: 23:16:24
+Completion time: 23:16:28
+
+Teller: 4
+Customer#: 91
+Arrival time: 23:16:28
+Completion time: 23:16:31
+
+Customer#: 92 Service type: W
+Arrival time: 23:16:32
+
+Teller: 3
+Customer#: 92
+Arrival time: 23:16:32
+Response time: 23:16:32
+
+Customer#: 93 Service type: I
+Arrival time: 23:16:36
+
+Teller: 2
+Customer#: 93
+Arrival time: 23:16:36
+Response time: 23:16:36
+
+Teller: 3
+Customer#: 92
+Arrival time: 23:16:32
+Completion time: 23:16:36
+
+Teller: 2
+Customer#: 93
+Arrival time: 23:16:36
+Completion time: 23:16:39
+
+Customer#: 94 Service type: W
+Arrival time: 23:16:40
+
+Teller: 1
+Customer#: 94
+Arrival time: 23:16:40
+Response time: 23:16:40
+
+Customer#: 95 Service type: D
+Arrival time: 23:16:44
+
+Teller: 4
+Customer#: 95
+Arrival time: 23:16:44
+Response time: 23:16:44
+
+Teller: 1
+Customer#: 94
+Arrival time: 23:16:40
+Completion time: 23:16:44
+
+Teller: 4
+Customer#: 95
+Arrival time: 23:16:44
+Completion time: 23:16:47
+
+Customer#: 96 Service type: I
+Arrival time: 23:16:48
+
+Teller: 3
+Customer#: 96
+Arrival time: 23:16:48
+Response time: 23:16:48
+
+Teller: 3
+Customer#: 96
+Arrival time: 23:16:48
+Completion time: 23:16:51
+
+Customer#: 97 Service type: D
+Arrival time: 23:16:52
+
+Teller: 2
+Customer#: 97
+Arrival time: 23:16:52
+Response time: 23:16:52
+
+Teller: 2
+Customer#: 97
+Arrival time: 23:16:52
+Completion time: 23:16:55
+
+Customer#: 98 Service type: W
+Arrival time: 23:16:56
+
+Teller: 1
+Customer#: 98
+Arrival time: 23:16:56
+Response time: 23:16:56
+
+Customer#: 99 Service type: I
+Arrival time: 23:17:00
+
+Teller: 4
+Customer#: 99
+Arrival time: 23:17:00
+Response time: 23:17:00
+
+Teller: 1
+Customer#: 98
+Arrival time: 23:16:56
+Completion time: 23:17:00
+
+Teller: 4
+Customer#: 99
+Arrival time: 23:17:00
+Completion time: 23:17:03
+
+Customer#: 100 Service type: D
+Arrival time: 23:17:04
+
+Teller: 3
+Customer#: 100
+Arrival time: 23:17:04
+Response time: 23:17:04
+
+Termination: teller-2
+#Served customers: 25
+Start time: 23:10:23
+Termination time: 23:17:04
+
+Termination: teller-1
+#Served customers: 25
+Start time: 23:10:23
+Termination time: 23:17:05
+
+Termination: teller-4
+#Served customers: 25
+Start time: 23:10:23
+Termination time: 23:17:05
+
+Teller: 3
+Customer#: 100
+Arrival time: 23:17:04
+Completion time: 23:17:08
+
+Termination: teller-3
+#Served customers: 25
+Start time: 23:10:23
+Termination time: 23:17:08
+
+Teller Statistics
+Teller-1 serves 25 customers.
+Teller-2 serves 25 customers.
+Teller-3 serves 25 customers.
+Teller-4 serves 25 customers.
+Total number of customers: 100.
